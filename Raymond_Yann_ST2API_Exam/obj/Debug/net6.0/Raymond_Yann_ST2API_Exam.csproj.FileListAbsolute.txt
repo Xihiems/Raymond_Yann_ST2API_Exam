@@ -1,0 +1,15 @@
+C:\Users\raymo\source\repos\Raymond_Yann_ST2API_Exam\Raymond_Yann_ST2API_Exam\bin\Debug\net6.0\Raymond_Yann_ST2API_Exam.exe
+C:\Users\raymo\source\repos\Raymond_Yann_ST2API_Exam\Raymond_Yann_ST2API_Exam\bin\Debug\net6.0\Raymond_Yann_ST2API_Exam.deps.json
+C:\Users\raymo\source\repos\Raymond_Yann_ST2API_Exam\Raymond_Yann_ST2API_Exam\bin\Debug\net6.0\Raymond_Yann_ST2API_Exam.runtimeconfig.json
+C:\Users\raymo\source\repos\Raymond_Yann_ST2API_Exam\Raymond_Yann_ST2API_Exam\bin\Debug\net6.0\Raymond_Yann_ST2API_Exam.dll
+C:\Users\raymo\source\repos\Raymond_Yann_ST2API_Exam\Raymond_Yann_ST2API_Exam\bin\Debug\net6.0\Raymond_Yann_ST2API_Exam.pdb
+C:\Users\raymo\source\repos\Raymond_Yann_ST2API_Exam\Raymond_Yann_ST2API_Exam\obj\Debug\net6.0\Raymond_Yann_ST2API_Exam.csproj.AssemblyReference.cache
+C:\Users\raymo\source\repos\Raymond_Yann_ST2API_Exam\Raymond_Yann_ST2API_Exam\obj\Debug\net6.0\Raymond_Yann_ST2API_Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raymo\source\repos\Raymond_Yann_ST2API_Exam\Raymond_Yann_ST2API_Exam\obj\Debug\net6.0\Raymond_Yann_ST2API_Exam.AssemblyInfoInputs.cache
+C:\Users\raymo\source\repos\Raymond_Yann_ST2API_Exam\Raymond_Yann_ST2API_Exam\obj\Debug\net6.0\Raymond_Yann_ST2API_Exam.AssemblyInfo.cs
+C:\Users\raymo\source\repos\Raymond_Yann_ST2API_Exam\Raymond_Yann_ST2API_Exam\obj\Debug\net6.0\Raymond_Yann_ST2API_Exam.csproj.CoreCompileInputs.cache
+C:\Users\raymo\source\repos\Raymond_Yann_ST2API_Exam\Raymond_Yann_ST2API_Exam\obj\Debug\net6.0\Raymond_Yann_ST2API_Exam.dll
+C:\Users\raymo\source\repos\Raymond_Yann_ST2API_Exam\Raymond_Yann_ST2API_Exam\obj\Debug\net6.0\refint\Raymond_Yann_ST2API_Exam.dll
+C:\Users\raymo\source\repos\Raymond_Yann_ST2API_Exam\Raymond_Yann_ST2API_Exam\obj\Debug\net6.0\Raymond_Yann_ST2API_Exam.pdb
+C:\Users\raymo\source\repos\Raymond_Yann_ST2API_Exam\Raymond_Yann_ST2API_Exam\obj\Debug\net6.0\Raymond_Yann_ST2API_Exam.genruntimeconfig.cache
+C:\Users\raymo\source\repos\Raymond_Yann_ST2API_Exam\Raymond_Yann_ST2API_Exam\obj\Debug\net6.0\ref\Raymond_Yann_ST2API_Exam.dll
